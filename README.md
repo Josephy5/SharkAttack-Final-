@@ -1,4 +1,4 @@
-# SharkAttack-Final-
+# SharkAttack
 MaxMSP group project from my first year studies. 
 
 It is a game where you must avoid getting eaten by a shark. 
